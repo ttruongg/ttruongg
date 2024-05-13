@@ -3,6 +3,7 @@
 
 - 🔭 I’m student at UIT.
 - 📫 How to reach me: thanhtruong1901@gmail.com
+- 📁 Portfolio : <a href="https://myprofolio-drab.vercel.app/"> My portfolio </a>
 
 
 ## 🌐Socials
